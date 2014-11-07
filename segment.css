@@ -288,7 +288,11 @@
   border-radius: 500rem;
   border-color: #aaaaaa rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1);
   border-style: solid;
+<<<<<<< HEAD
   border-width: 0.2em;
+=======
+  border-width: 0.3em;
+>>>>>>> 3f5cdb23f25425f4b962d4033da005f84c4f6f89
   box-shadow: 0px 0px 0px 1px transparent;
   visibility: visible;
   z-index: 101;
@@ -554,9 +558,12 @@
          Theme Overrides
 *******************************/
 
+<<<<<<< HEAD
 
 
 /*******************************
          Site Overrides
 *******************************/
 
+=======
+>>>>>>> 3f5cdb23f25425f4b962d4033da005f84c4f6f89

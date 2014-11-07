@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-segment",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.0.0",
+>>>>>>> 3f5cdb23f25425f4b962d4033da005f84c4f6f89
   "title": "Semantic UI - Segment",
   "description": "Single component release of segment",
   "homepage": "http://www.semantic-ui.com",
@@ -13,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
+<<<<<<< HEAD
+=======
+  "dependencies": {
+    "jquery": "x.x.x"
+  },
+>>>>>>> 3f5cdb23f25425f4b962d4033da005f84c4f6f89
   "devDependencies": {}
 }
