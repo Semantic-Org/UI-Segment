@@ -1,3 +1,7 @@
+### Version 0.15.2 - Mar 28, 2014
+
+- **Menu** - Fixes formatting of attached segments with menus
+
 ### Version 0.9.6 - Dec 04, 2013
 
 - **Header, Grid, Segment** - Adds justified alignemnt
