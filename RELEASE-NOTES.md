@@ -1,3 +1,12 @@
+### Version 1.3.0 - December 17, 2014
+
+- **Label** - Corner attached labels now display correctly inside of attached segments
+- **Segment** - Vertical segments now have padding on first/last element, fixing issues when using with grids
+
+### Version 1.1.0 - December 02, 2014
+
+- **Menu/Segment** Fixes double border on pointing menu with attached segment **Thanks davialexandre**
+
 ### Version 0.15.2 - Mar 28, 2014
 
 - **Menu** - Fixes formatting of attached segments with menus
