@@ -1,16 +1,7 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 727adf3bd58241fe730875fa9f9ecc38cdcba826
 ### UI Changes
 
 - **Segment** - Added plural variation `ui segments` that stack together in groups without using additional class names
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> c0f39e83f635ab293b008903479f20ca67d9e88a
->>>>>>> 727adf3bd58241fe730875fa9f9ecc38cdcba826
 ### Version 1.7.0 - January 14, 2015
 
 - **Segment** - ``ui tabular menu`` now correctly aligns with attached segment when using fluid variation *Thanks @MohammadYounes*
