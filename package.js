@@ -1,17 +1,14 @@
-var
-  where = 'client' // Adds files only to the client
-;
 
 Package.describe({
   name    : 'semantic:ui-segment',
-  summary : 'Semantic UI - Segment (official): Single component release of segment',
-  version : '1.9.2',
+  summary : 'Semantic UI - Segment: Single component release',
+  version : '1.9.3',
   git     : 'git://github.com/Semantic-Org/UI-Segment.git',
 });
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
   api.addFiles([
-    
-  ], where);
+    'segment.css'
+  ], 'client');
 });
