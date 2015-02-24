@@ -1,3 +1,7 @@
+### Version 1.10.0 - February 23, 2015
+
+- **Grid** - Stackable grid now has horizontal padding by default on mobile unless nested inside a `ui grid` or `ui segment` (not vertical)
+
 ### UI Changes
 
 - **Segment** - Added plural variation `ui segments` that stack together in groups without using additional class names
