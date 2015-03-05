@@ -1,3 +1,7 @@
+### Version 1.11.0 - March 3, 2015
+
+- **Segment** - Fix first/last margins on `ui segments`
+
 ### Version 1.10.0 - February 23, 2015
 
 - **Grid** - Stackable grid now has horizontal padding by default on mobile unless nested inside a `ui grid` or `ui segment` (not vertical)
