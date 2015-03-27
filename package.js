@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-segment',
   summary : 'Semantic UI - Segment: Single component release',
-  version : '1.11.5',
+  version : '1.11.6',
   git     : 'git://github.com/Semantic-Org/UI-Segment.git',
 });
 
