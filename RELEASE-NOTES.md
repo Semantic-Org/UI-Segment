@@ -1,3 +1,16 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Segment** - Segment no longer includes a [clearfix](http://learnlayout.com/clearfix.html) by default. You will need to specify a `clearing segment` to clear floated content.
+- **Segment** - Segments now support complex nesting, many new rules for how segment groups should appear inside groups
+- **Segment** - New `horizontal segment` groups make laying out auto resizing text columns much easier.
+- **Segment** - Added `padded` and `very padded` segment variations
+- **Segment** - Added `clearing` segment for cases that need a [clearfix](http://learnlayout.com/clearfix.html).
+- **Steps** - Added `attached` steps, which can now be attached to other UI like `segment`
+- **Button** - Fixed `attached buttons` 1px offset when attached to segment and menu (border vs box shadow border)
+- **Segment** - Segment groups can now be `raised` or `piled` or `stacked`
+- **Segment** - **Clearfix** has been removed from `ui segment`
+- **Segment** - Segment now uses `border` for border instead of a second `box-shadow`, this may adjust position by 1pixel
+
 ### Version 1.11.0 - March 3, 2015
 
 - **Segment** - Fix first/last margins on `ui segments`
@@ -38,7 +51,7 @@
 
 ### Version 0.9.6 - Dec 04, 2013
 
-- **Header, Grid, Segment** - Adds justified alignemnt
+- **Header, Grid, Segment** - Adds justified alignment
 
 ### Version 0.9.5 - Nov 25, 2013
 
