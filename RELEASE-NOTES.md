@@ -1,3 +1,7 @@
+### Version 2.0.1 - June 30, 2015
+
+- **Segment** - Fixed incorrect margin set on `attached segment` [#2503](https://github.com/Semantic-Org/Semantic-UI/issues/2503)
+
 ### Version 2.0.0 - June 30, 2015
 
 - **Segment** - Segment no longer includes a [clearfix](http://learnlayout.com/clearfix.html) by default. You will need to specify a `clearing segment` to clear floated content.
