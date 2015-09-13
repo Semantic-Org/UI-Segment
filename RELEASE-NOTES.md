@@ -1,3 +1,7 @@
+### Version 2.1.4 - Sep 13, 2015
+
+- **Table** - Fixed issue where `(x) column segment table` was inheriting accidentally inheriting some grid styles
+
 ### Version 2.0.4 - July 17, 2015
 
 - **Segment** - Added additional variables for `inverted` segment.
