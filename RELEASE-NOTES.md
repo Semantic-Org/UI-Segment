@@ -1,3 +1,8 @@
+### Version 2.2.0 - June 26, 2016
+
+- **Segment** - Fixed `segments` to not clip border radius when only a **single** segment is included
+- **Segment/Message** - `top attached message` has no border when attached to `segment` [#3619](https://github.com/Semantic-Org/Semantic-UI/issues/3619)
+
 ### Version 2.1.7 - Dec 19, 2015
 
 - **Menu** - Fixed `1px` offset when `attached segment` follows `tabular menu` (max of 2 consecutive segments) [#3479](https://github.com/Semantic-Org/Semantic-UI/issues/3479)
