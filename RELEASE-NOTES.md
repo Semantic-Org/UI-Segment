@@ -1,3 +1,7 @@
+### Version 2.2.3 - August 21, 2016
+
+- **Form/Segment** - Fix typo causing `pointer-events: none` no to work on `loading segment` and `loading form`  **Thanks @YamiOdymel and @ilanus** [#4403](https://github.com/Semantic-Org/Semantic-UI/issues/4403)
+
 ### Version 2.2.0 - June 26, 2016
 
 - **Segment** - Fixed `segments` to not clip border radius when only a **single** segment is included
