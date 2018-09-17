@@ -1,3 +1,7 @@
+### Version 2.4.0 - Sep 17, 2018
+
+- **Segment** - Added new `ui placeholder segment` used to reserve space for UI when content is missing or empty.
+
 ### Version 2.2.11 - July 11, 2017
 
 - **Segment** - Fixed issue where using colored segment e.g. `red segment` inside `segments` would not work when `:first-child` [#4013](https://github.com/Semantic-Org/Semantic-UI/issues/4013)
